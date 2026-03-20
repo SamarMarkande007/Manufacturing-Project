@@ -1,0 +1,201 @@
+supplier_id,supplier_name,country,lead_time_days,rating
+1,Velasquez and Sons,China,19,4.0
+2,"Orr, Green and Kelley",India,9,2.0
+3,Wood Ltd,Germany,26,3.0
+4,"Armstrong, Kane and Ruiz",USA,8,2.0
+5,"Donovan, Santiago and Johnson",USA,24,4.0
+6,Watts-Booth,,8,4.0
+7,Holmes-Jones,China,22,5.0
+8,"Turner, Allen and Carter",Germany,8,1.0
+9,Reid-Moore,,21,5.0
+10,"Wood, Ford and Kelley",Germany,16,3.0
+11,Johnson-Green,China,26,2.0
+12,Parrish-Brooks,USA,21,3.0
+13,Lawrence-Lopez,India,14,4.0
+14,"Johnson, Contreras and Lewis",USA,26,5.0
+15,Richard Ltd,,5,5.0
+16,Cannon and Sons,India,26,5.0
+17,"Harris, Adams and Baldwin",,28,3.0
+18,Foster-Lopez,China,22,4.0
+19,"Ferguson, Price and Davenport",India,22,
+20,Reeves-King,,18,2.0
+21,Rodriguez-Johnson,China,19,3.0
+22,Pratt-George,USA,16,5.0
+23,"Humphrey, Boyd and Knight",China,8,
+24,Jackson-Williams,Germany,7,3.0
+25,Hoffman Ltd,China,24,3.0
+26,Johnson-Ray,China,16,4.0
+27,"Rios, Summers and Kirby",Germany,11,2.0
+28,"Smith, Maddox and Santana",,15,3.0
+29,Nguyen-Lane,,5,3.0
+30,"Johnson, Smith and Jordan",China,10,5.0
+31,Caldwell-Mcgrath,Germany,19,5.0
+32,Frey-Mendoza,Germany,19,1.0
+33,"Mcintyre, Ball and Farmer",USA,23,4.0
+34,"Arnold, Oconnell and Martin",,15,1.0
+35,"Walker, Austin and Lester",India,27,5.0
+36,"Sutton, Travis and Tate",,6,2.0
+37,"Contreras, Wallace and Moore",,18,5.0
+38,Spencer Inc,USA,6,4.0
+39,Griffin LLC,India,8,5.0
+40,"Adams, Clark and Walters",USA,21,4.0
+41,"Marshall, Mcdaniel and Lloyd",India,7,4.0
+42,"Garcia, Duffy and Reed",China,17,4.0
+43,"Butler, Bird and Armstrong",India,13,4.0
+44,Lambert-Jackson,USA,11,4.0
+45,Martinez Ltd,,19,2.0
+46,"Duncan, Castro and Higgins",India,27,1.0
+47,Miller Ltd,India,15,3.0
+48,Williams-Carter,Germany,24,1.0
+49,Lowery Group,,6,4.0
+50,Smith and Sons,China,19,2.0
+51,"Collins, Cole and Sanchez",USA,18,5.0
+52,Williams Ltd,China,24,2.0
+53,Williams-Brown,,26,4.0
+54,"Hernandez, Key and Swanson",India,15,
+55,"Henry, Burns and Schmidt",India,7,2.0
+56,Cummings-Parker,,21,4.0
+57,"Robinson, Morgan and Casey",India,16,2.0
+58,"Holmes, Golden and Mckenzie",India,28,3.0
+59,Wood-Johnson,India,25,3.0
+60,Wise Inc,USA,19,2.0
+61,Tate-Schmidt,USA,20,5.0
+62,Scott and Sons,Germany,9,4.0
+63,Noble LLC,China,24,3.0
+64,"Duncan, Martin and Wright",,10,5.0
+65,Adams LLC,,23,2.0
+66,"Atkinson, Torres and Brown",,29,5.0
+67,"Marshall, Porter and Adams",Germany,9,1.0
+68,Hodges-Sanders,USA,7,
+69,"Cannon, Phillips and Bautista",Germany,5,2.0
+70,"Rowe, Fields and Campbell",,10,4.0
+71,Carlson-Lewis,China,19,2.0
+72,"Jordan, Gonzalez and Davis",India,6,4.0
+73,Henry-Williams,USA,7,2.0
+74,"Stein, Long and Morris",USA,21,5.0
+75,"Silva, Ramos and Gonzalez",Germany,29,
+76,Lambert Group,USA,28,5.0
+77,"Bradley, Eaton and Herman",,16,1.0
+78,Owens Group,,22,4.0
+79,Thompson PLC,Germany,19,5.0
+80,Morris Inc,,16,1.0
+81,Jacobs-Miller,China,20,4.0
+82,"Dickerson, Simpson and Mcintosh",Germany,12,
+83,Cox and Sons,China,18,
+84,"Ford, Fritz and Martin",India,29,3.0
+85,"Schultz, Merritt and Hernandez",China,21,1.0
+86,King-Porter,India,25,1.0
+87,"Martinez, Robinson and Larson",India,12,4.0
+88,"Arellano, Williams and Davis",China,19,
+89,Taylor and Sons,Germany,18,
+90,Frederick LLC,,22,5.0
+91,Espinoza Inc,,24,5.0
+92,"Campbell, Palmer and Long",India,11,1.0
+93,Archer LLC,India,7,4.0
+94,Smith-Carey,Germany,16,4.0
+95,Pratt-Walters,USA,25,5.0
+96,Walker-James,China,28,3.0
+97,Taylor LLC,India,7,2.0
+98,Guerrero-Luna,,24,
+99,Lee-Cowan,Germany,18,2.0
+100,Melton LLC,China,19,5.0
+101,"Moreno, Vasquez and Chambers",Germany,29,2.0
+102,Walker-Byrd,China,18,
+103,"Barr, Matthews and Montoya",China,11,1.0
+104,"Hill, Bryant and Ibarra",India,21,1.0
+105,"Cooley, Smith and Mcgrath",Germany,16,5.0
+106,"Jones, Gomez and Hendricks",Germany,24,4.0
+107,Cox PLC,,8,3.0
+108,Wood-Evans,,13,4.0
+109,Ray-Garcia,India,10,
+110,Martin and Sons,India,20,1.0
+111,Hall PLC,USA,29,4.0
+112,Thompson Inc,,26,4.0
+113,Wright Ltd,China,26,1.0
+114,Williams-Smith,Germany,25,3.0
+115,"Williams, Wood and Jimenez",India,25,5.0
+116,Williams and Sons,Germany,6,5.0
+117,Palmer-Simpson,Germany,28,4.0
+118,Jones-Thompson,USA,12,5.0
+119,Herman LLC,,15,1.0
+120,Robinson-Lewis,India,17,1.0
+121,Smith-Tate,Germany,21,4.0
+122,Delgado-Bentley,India,12,4.0
+123,"Clark, Adams and Davis",China,25,4.0
+124,Dean and Sons,USA,22,3.0
+125,Beasley PLC,China,22,
+126,Lee-Roberts,India,18,4.0
+127,Jackson Ltd,India,19,2.0
+128,"Mccarty, Michael and Scott",,10,2.0
+129,Martin-Pierce,Germany,15,
+130,Ross-Maxwell,Germany,17,5.0
+131,Hess PLC,China,29,4.0
+132,"Clark, Gentry and Ruiz",USA,5,
+133,"Perez, Salinas and Kim",Germany,10,5.0
+134,"Harris, Rocha and Davis",,13,1.0
+135,Anderson Inc,China,12,3.0
+136,"Rosales, Miller and Williams",China,15,5.0
+137,Cook-Robinson,,26,5.0
+138,Paul PLC,USA,23,3.0
+139,Chambers Ltd,,28,5.0
+140,James-Ewing,USA,13,1.0
+141,"Goodwin, Garcia and Garza",,21,
+142,Graham Group,,16,3.0
+143,Nichols and Sons,India,29,4.0
+144,Leon-Leblanc,China,18,2.0
+145,Sharp Ltd,,19,4.0
+146,"Hardy, Mason and Rose",,20,5.0
+147,Cole Group,Germany,26,2.0
+148,Aguirre and Sons,China,26,3.0
+149,Beasley-Salazar,Germany,24,3.0
+150,Miller-Short,China,5,2.0
+151,"Kennedy, Anderson and Robertson",Germany,14,1.0
+152,Washington-Daniel,,12,2.0
+153,Gallegos LLC,,22,5.0
+154,Lambert-Maxwell,India,5,1.0
+155,"Martinez, Clark and Flores",Germany,6,3.0
+156,"Thompson, Watkins and Werner",USA,5,2.0
+157,Pena Ltd,India,5,4.0
+158,Travis-Peterson,Germany,13,4.0
+159,"Anderson, Wilson and Howell",Germany,17,
+160,"Webb, Hamilton and Howard",India,5,4.0
+161,Black PLC,,17,2.0
+162,Hayes-Benjamin,Germany,24,2.0
+163,Farrell and Sons,,26,4.0
+164,Oliver LLC,India,11,2.0
+165,Salas-Bell,,6,5.0
+166,Smith-Johnson,China,10,1.0
+167,"Weber, Cisneros and Brooks",USA,11,5.0
+168,"Allison, Carter and Santana",Germany,18,5.0
+169,"Carr, Fields and Reilly",USA,22,2.0
+170,"Green, Evans and Cox",,19,1.0
+171,"Lewis, Garcia and Thompson",Germany,6,2.0
+172,Martin Group,,14,3.0
+173,"Wheeler, Bowen and Young",China,27,2.0
+174,Wright Inc,India,16,2.0
+175,Patton LLC,Germany,21,2.0
+176,"Scott, Tate and Perez",China,12,1.0
+177,Woodward-Garcia,China,15,2.0
+178,Smith Inc,Germany,7,1.0
+179,"Chavez, Ward and Brown",,10,4.0
+180,"Clark, Bennett and Johnson",China,13,3.0
+181,Webb-Williams,USA,10,1.0
+182,"Evans, Thompson and Martinez",China,13,4.0
+183,Evans Group,,11,1.0
+184,Mcdaniel Ltd,,13,1.0
+185,"Peterson, Miller and Beasley",USA,22,3.0
+186,Garcia LLC,China,16,5.0
+187,Mcgee-Andrews,,12,5.0
+188,Nguyen Ltd,Germany,12,1.0
+189,Boone LLC,India,22,2.0
+190,Lewis Group,India,24,4.0
+191,Parker-Snyder,India,19,2.0
+192,Brown Inc,China,11,2.0
+193,Austin-Chapman,USA,15,1.0
+194,Carpenter-Stevens,,24,1.0
+195,"Johnson, Malone and Ellis",Germany,20,1.0
+196,"Knox, Giles and Joyce",Germany,8,1.0
+197,Smith-Spence,China,10,5.0
+198,Gilbert LLC,India,26,
+199,Evans-Boone,China,7,
+200,Carpenter-Long,USA,13,5.0
